@@ -1,4 +1,5 @@
 # AUTO SELF DIAGNOSIS
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/14c1ed75f8524772957fe571b4134a82)](https://app.codacy.com/manual/gunyu1019/Auto-Self-Diagnosis?utm_source=github.com&utm_medium=referral&utm_content=gunyu1019/Auto-Self-Diagnosis&utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/gunyu1019/auto-self-diagnosis/badge/master)](https://www.codefactor.io/repository/github/gunyu1019/auto-self-diagnosis/overview/master)
 * 자가진단 업그레이드에 대응하여 제작된 프로그램입니다.
 * 시작전! config.json을 알맞게 수정하여주세요!
