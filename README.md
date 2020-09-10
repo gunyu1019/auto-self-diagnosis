@@ -1,4 +1,5 @@
 # AUTO SELF DIAGNOSIS
+[![CodeFactor](https://www.codefactor.io/repository/github/gunyu1019/auto-self-diagnosis/badge/master)](https://www.codefactor.io/repository/github/gunyu1019/auto-self-diagnosis/overview/master)
 * 자가진단 업그레이드에 대응하여 제작된 프로그램입니다.
 * 시작전! config.json을 알맞게 수정하여주세요!
 * 정상적으로 작동했다면 screenshot 폴더에 아래의 사진이 저장되게 됩니다. (마스크 처리되어있는 사진입니다.)
